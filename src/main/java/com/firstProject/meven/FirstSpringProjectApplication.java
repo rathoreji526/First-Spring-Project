@@ -12,7 +12,8 @@ public class FirstSpringProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstSpringProjectApplication.class, args);
-		System.out.println("first spring project run successfull\uD83C\uDF89");
+		System.out.println("first spring project run successfully\uD83C\uDF89");
 	}
 
 }
+
